@@ -1,4 +1,4 @@
-# Bluetooth Bash Script
+# Airpods Bash Script
 This is a script I made to connect and disconnect from my airpods using the terminal rather than clicking 5 times to navigate the GUI on Ubuntu
 # How to use
 1. Figure out your bluetooth devices MAC address
