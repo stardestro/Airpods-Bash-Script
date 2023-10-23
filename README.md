@@ -5,6 +5,7 @@ This is a script I made to connect and disconnect from my airpods using the term
 2. Replace 00:00:00:00:00:00 with your devices mac address
 3. (optional) rename the script to what ever you want the commandname to be
 4. Place within /usr/bin
+5. Now just type ```airpod``` into the terminal and it will connect/disconnect your airpods for you
    
 ### Quick commands:
 
